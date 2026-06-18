@@ -1,4 +1,4 @@
-# Hi there, I'm Altay Çavuş! 🚀 🌌
+# Hi there, I'm Altay ! 🚀 🌌
 
 ### 🥇 Valedictorian | Space Sciences & Technologies Expert
 **Tech Researcher | Remote Sensing & AI Enthusiast | Aspiring Aviation Educator**
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am a technology researcher who transforms comple
 ---
 ---
 
-# Merhaba, Ben Altay Çavuş! 🚀 🌌
+# Merhaba, Ben Altay ! 🚀 🌌
 
 ### 🥇 Bölüm Birincisi | Uzay Bilimleri ve Teknolojileri Uzmanı
 **Teknoloji Araştırmacısı | Uzaktan Algılama ve Yapay Zeka Tutkunu | Geleceğin Havacılık Eğitimcisi**
